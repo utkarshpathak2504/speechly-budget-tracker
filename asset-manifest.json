@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/speechly-budget-tracker/static/css/main.bd4beeb1.chunk.css",
+    "main.js": "/speechly-budget-tracker/static/js/main.c210cc16.chunk.js",
+    "main.js.map": "/speechly-budget-tracker/static/js/main.c210cc16.chunk.js.map",
+    "runtime-main.js": "/speechly-budget-tracker/static/js/runtime-main.40817205.js",
+    "runtime-main.js.map": "/speechly-budget-tracker/static/js/runtime-main.40817205.js.map",
+    "static/js/2.871ce5b3.chunk.js": "/speechly-budget-tracker/static/js/2.871ce5b3.chunk.js",
+    "static/js/2.871ce5b3.chunk.js.map": "/speechly-budget-tracker/static/js/2.871ce5b3.chunk.js.map",
+    "static/js/3.4e5ee65b.chunk.js": "/speechly-budget-tracker/static/js/3.4e5ee65b.chunk.js",
+    "static/js/3.4e5ee65b.chunk.js.map": "/speechly-budget-tracker/static/js/3.4e5ee65b.chunk.js.map",
+    "index.html": "/speechly-budget-tracker/index.html",
+    "static/css/main.bd4beeb1.chunk.css.map": "/speechly-budget-tracker/static/css/main.bd4beeb1.chunk.css.map",
+    "static/js/2.871ce5b3.chunk.js.LICENSE.txt": "/speechly-budget-tracker/static/js/2.871ce5b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/speechly-budget-tracker/static/media/bg.491717dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40817205.js",
+    "static/js/2.871ce5b3.chunk.js",
+    "static/css/main.bd4beeb1.chunk.css",
+    "static/js/main.c210cc16.chunk.js"
+  ]
+}

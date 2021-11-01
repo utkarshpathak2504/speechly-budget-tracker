@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,gBACE,UAAW,CACX,QACF,CAGA,KACE,0HAAwF,CACxF,qBACF","file":"main.bd4beeb1.chunk.css","sourcesContent":["#root, body,html{\n  height: 95%;\n  margin: 0;\n}\n\n\nbody{\n  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./assets/bg.jpg);\n  background-size: cover;\n}"]}
